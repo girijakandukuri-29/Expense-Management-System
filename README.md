@@ -1,4 +1,4 @@
-A Dual-Channel Data Ingestion FrameWork for Automated Personal Finance Management
+# 💰 A Dual-Channel Data Ingestion FrameWork for Automated Personal Finance Management
 
 An AI-powered Expense Management System that automates personal finance tracking using OCR receipt scanning, SMS-based transaction parsing, LSTM-based budget prediction, and an intelligent AI financial assistant.
 
